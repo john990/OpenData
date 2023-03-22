@@ -10385,5 +10385,73 @@
       "title": "Talking Translator",
       "url": "https://play.google.com/store/apps/details?id\u003dcom.translate.talkingtranslator"
     }
+  },
+  {
+    "lang": "en-us",
+    "country": "us",
+    "chineseCountryName": "美国",
+    "app": {
+      "appId": "com.google.android.apps.translate",
+      "currency": "USD",
+      "developer": "Google LLC",
+      "free": true,
+      "icon": "https://play-lh.googleusercontent.com/ZrNeuKthBirZN7rrXPN1JmUbaG8ICy3kZSHt-WgSnREsJzo2txzCzjIoChlevMIQEA",
+      "price": 0.0,
+      "score": 4.3366323,
+      "scoreText": "4.3",
+      "title": "Google Translate",
+      "url": "https://play.google.com/store/apps/details?id\u003dcom.google.android.apps.translate"
+    }
+  },
+  {
+    "lang": "en-us",
+    "country": "us",
+    "chineseCountryName": "美国",
+    "app": {
+      "appId": "com.microsoft.translator",
+      "currency": "USD",
+      "developer": "Microsoft Corporation",
+      "free": true,
+      "icon": "https://play-lh.googleusercontent.com/s06AISm1RkzTuie5UJNczrhn22t0_5tjT9sUZIwondVe9tQ53YuK6W2WccbvB7mDzCU",
+      "price": 0.0,
+      "score": 4.672255,
+      "scoreText": "4.7",
+      "title": "Microsoft Translator",
+      "url": "https://play.google.com/store/apps/details?id\u003dcom.microsoft.translator"
+    }
+  },
+  {
+    "lang": "en-us",
+    "country": "us",
+    "chineseCountryName": "美国",
+    "app": {
+      "appId": "com.naver.labs.translator",
+      "currency": "USD",
+      "developer": "NAVER Corp.",
+      "free": true,
+      "icon": "https://play-lh.googleusercontent.com/CSABUhVjYtByBed_M1uoBvxOe79V-lCiUktwNC1PAx9hfjv1KoVORJJFXurkEXecpvo",
+      "price": 0.0,
+      "score": 4.72043,
+      "scoreText": "4.7",
+      "title": "Naver Papago - AI Translator",
+      "url": "https://play.google.com/store/apps/details?id\u003dcom.naver.labs.translator"
+    }
+  },
+  {
+    "lang": "en-us",
+    "country": "us",
+    "chineseCountryName": "美国",
+    "app": {
+      "appId": "com.translate.talkingtranslator",
+      "currency": "USD",
+      "developer": "idealappcenter",
+      "free": true,
+      "icon": "https://play-lh.googleusercontent.com/1V4NWRMFWKoT2qiKJO5j7lH3bZvbV475o8H3Vvm1sn1yr9zn1-DhlzXmZvWcAODF2A",
+      "price": 0.0,
+      "score": 4.709251,
+      "scoreText": "4.7",
+      "title": "Talking Translator",
+      "url": "https://play.google.com/store/apps/details?id\u003dcom.translate.talkingtranslator"
+    }
   }
 ]
